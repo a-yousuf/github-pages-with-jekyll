@@ -1,5 +1,4 @@
-edit
 ---
 title: "Your blog post title"
-date: YYYY-MM-DD
+date: 2000-01-12
 ---
